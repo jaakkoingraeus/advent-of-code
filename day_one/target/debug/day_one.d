@@ -1,0 +1,1 @@
+/Users/jaakkokulta/Documents/Jaakko\ Ingraeus/Kikkailu/Koodi/advent-of-code/advent-of-code/day_one/target/debug/day_one: /Users/jaakkokulta/Documents/Jaakko\ Ingraeus/Kikkailu/Koodi/advent-of-code/advent-of-code/day_one/src/main.rs
